@@ -1,13 +1,13 @@
 {
-  "name": "YouTube Downloader Bot",
-  "description": "A telegram bot To Download Youtube Files ",
-  "logo": "https://telegra.ph/file/6a3b1febade2313dd0dca.jpg",
+  "name": "HM YTDL BOT",
+  "description": "A telegram bot To Download YTDL Supported Files ",
+  "logo": "https://telegra.ph/file/0bf5ea7736e43bd63488e.png",
   "keywords": [
-    "Youtube","YoutubeDownloader"
+    "Youtube","YoutubeDownloader","YTDL"
   ],
-  "repository": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
-  "success_url": "https://t.me/youtubdlbot",
-  "website": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
+  "repository": "https://github.com/HM-MODS/YT-DL",
+  "success_url": "http://t.me/HM_YTDL_BOT",
+  "website": "https://github.com/HM-MODS/YT-DL",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
