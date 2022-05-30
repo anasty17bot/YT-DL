@@ -5,7 +5,7 @@
   "keywords": [
     "Youtube","YoutubeDownloader","YTDL"
   ],
-  "repository": "https://github.com/HM-MODS/YT-DL",
+  "repository": "https://github.com/anasty17bot/YT-DL",
   "success_url": "http://t.me/HM_YTDL_BOT",
   "website": "https://github.com/HM-MODS/YT-DL",
   "env": {
